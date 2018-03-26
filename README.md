@@ -1,0 +1,2 @@
+# Wiki
+Lynx Documentation
