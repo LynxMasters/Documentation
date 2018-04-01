@@ -1,3 +1,3 @@
 # Wiki
 
-[Lynx Documentation](https://github.com/LynxMasters/Documentation/wiki)
+[LynxMasters Documentation](https://github.com/LynxMasters/Documentation/wiki)
